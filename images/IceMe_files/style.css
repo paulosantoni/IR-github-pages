@@ -32,10 +32,10 @@ h3 {
 }
 
 #Wrapper {
-	background-image: url('images/corse.jpg');
+	background-image: url('images/truck.jpg');
   	height: 450px;
   	background-size: cover;
-  	padding-top: 150px;
+  	padding-top: 50px;
   	padding-bottom: : 150px;
   	text-align: center;
   	color: white;
@@ -65,10 +65,3 @@ h3 {
   color: white;
   background-color: rgba(0, 0, 0, 0.3);
 }
-
-
-
-:hov
-
-
-.cls
